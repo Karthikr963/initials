@@ -1,3 +1,11 @@
-Hello GIT
-modified second line
-third line
+Second branch
+with merge also
+H
+E
+L
+L
+O
+
+G
+I
+T
